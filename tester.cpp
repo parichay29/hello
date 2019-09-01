@@ -3,7 +3,7 @@
 
 int main()
 {
-    int j=7;
+    int j=10;
     int k=8;
     int h=9;
     return 0;
